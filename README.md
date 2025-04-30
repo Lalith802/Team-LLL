@@ -46,7 +46,7 @@ npm start
 
 ```
 
-To use your local MongoDB chage the LocalHost Accordingly
+To use your local MongoDB change the LocalHost Accordingly
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/f0d97299-c0fc-4dc6-8fec-5a08895fa3a8" />
 
